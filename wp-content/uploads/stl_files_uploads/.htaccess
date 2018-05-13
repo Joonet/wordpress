@@ -1,0 +1,4 @@
+deny from all
+<Files *.stl> 
+    Allow from all
+</Files>

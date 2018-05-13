@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce支付宝插件\n"
+"POT-Creation-Date: 2017-01-24 13:45+0800\n"
+"PO-Revision-Date: 2017-01-24 13:46+0800\n"
+"Last-Translator: ranj <ranj@evget.com>\n"
+"Language-Team: 重庆迅虎网络有限公司 <jeff@xunhuweb.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: alipay/refund/index.php:38
+msgid "Invalid order!"
+msgstr "无效的订单！ "
+
+#: alipay/refund/index.php:45
+msgid "Refund amount is invalid!"
+msgstr "退款金额无效！ "
+
+#: alipay/refund/index.php:68
+msgid "Alipay NO is empty,can't refund order!"
+msgstr "支付宝支付订单号为空，不能退款！ "
+
+#: alipay/refund/index.php:108
+msgid "Redirecting to Alipay, please wait..."
+msgstr " 正在跳转支付宝，请稍候......"
+
+#: class-xh-alipay-wc-payment-gateway.php:303
+msgid "Refresh the page and try again!"
+msgstr "刷新页面，重试！"
+
+#: class-xh-alipay-wc-payment-gateway.php:319
+msgid "Enable/Disable"
+msgstr "启用/禁用"
+
+#: class-xh-alipay-wc-payment-gateway.php:321
+msgid "Enable Alipay"
+msgstr "启用支付宝"
+
+#: class-xh-alipay-wc-payment-gateway.php:325
+msgid "Title"
+msgstr "标题"
+
+#: class-xh-alipay-wc-payment-gateway.php:327
+#: class-xh-alipay-wc-payment-gateway.php:336
+msgid "Payment gateway will be shown at the checkout."
+msgstr "支付网关名称，在结账时显示"
+
+#: class-xh-alipay-wc-payment-gateway.php:334
+msgid "Description"
+msgstr "描述"
+
+#: class-xh-alipay-wc-payment-gateway.php:342
+msgid "Instructions"
+msgstr "介绍"
+
+#: class-xh-alipay-wc-payment-gateway.php:345
+msgid "Instructions that will be added to the thank you page."
+msgstr "介绍信息会在“Thank you”页面显示"
+
+#: class-xh-alipay-wc-payment-gateway.php:349
+msgid "Merchant ID"
+msgstr "商户号"
+
+#: class-xh-alipay-wc-payment-gateway.php:351
+#: class-xh-alipay-wc-payment-gateway.php:358
+msgid "Click here to get"
+msgstr "点击此处获取"
+
+#: class-xh-alipay-wc-payment-gateway.php:356
+msgid "KEY"
+msgstr "安全校验码(Key)"
+
+#: class-xh-alipay-wc-payment-gateway.php:364
+#: class-xh-alipay-wc-payment-gateway.php:366
+msgid "Disabled in WeChat"
+msgstr "微信中禁用"
+
+#: class-xh-alipay-wc-payment-gateway.php:371
+msgid "Exchange Rate"
+msgstr "汇率"
+
+#: infrastructure/paging/class-xh-paging-model.php:25
+#, php-format
+msgid "%s items"
+msgstr "共%s个"
+
+#: infrastructure/paging/class-xh-paging-model.php:29
+msgid "first page"
+msgstr "第一页"
+
+#: infrastructure/paging/class-xh-paging-model.php:30
+msgid "prev page"
+msgstr "上一页"
+
+#: infrastructure/paging/class-xh-paging-model.php:36
+#, php-format
+msgid "page %s, %s pages"
+msgstr "第%s也，共%s页"
+
+#: infrastructure/paging/class-xh-paging-model.php:39
+msgid "next page"
+msgstr "下一页"
+
+#: infrastructure/paging/class-xh-paging-model.php:40
+msgid "last page"
+msgstr "最后一页"
+
+#~ msgid "Alipay plugin depends on Woocommerce plugin"
+#~ msgstr "“支付宝插件”依赖woocommerce插件"
+
+#~ msgid "Ignore this notice."
+#~ msgstr "忽略此消息"
+
+#~ msgid "<h5>You are using an unauthorized Alipay plugin, please ask for<a target=\"_blank\" href=\"http://www.wpweixin.net\">xunhu</a>!</h5>"
+#~ msgstr "<h5>您正在使用未授权的 \"Woocommerce支付宝插件\", 详情请咨询<a target=\"_blank\" href=\"http://www.wpweixin.net\">迅虎网络</a>!</h5>"
+
+#~ msgid "alipay NO."
+#~ msgstr "支付宝订单号："
+
+#~ msgid "Settings"
+#~ msgstr "设置"
+
+#~ msgid "Pay now"
+#~ msgstr "立即支付"
+
+#~ msgid "\"Alipay for Woocommerce\" is enabled, but the store currency is not set to Chinese Yuan. Please <a href=\"%1s\">set the %2s against the Chinese Yuan exchange rate</a>."
+#~ msgstr "支付宝已启用，但您的主货币不是人民币，请<a href=\"%1s\">设置%2s转人民币的汇率"
+
+#~ msgid "Turn on logging"
+#~ msgstr "启用日志功能"
+
+#~ msgid "Enable logging"
+#~ msgstr "启用日志功能"
+
+#~ msgid "Set the directory permissions to 777(%s)"
+#~ msgstr "设置目录%s的权限为777"
+
+#~ msgid "Please set the %s against Chinese Yuan exchange rate, eg if your currency is US Dollar, then you should enter 6.19"
+#~ msgstr "'请设置%s转人民币的汇率，例如您的主货币是美元，请填写6.19'"
+
+#~ msgid "Alipay"
+#~ msgstr "支付宝"
+
+#~ msgid "Confirm"
+#~ msgstr "确认"
+
+#~ msgid "This controls the title which the user sees during checkout."
+#~ msgstr "支付网关名称，用户结账时显示"
+
+#~ msgid "This controls the description which the user sees during checkout."
+#~ msgstr "描述一下支付网关，用户结账时会看到"
+
+#~ msgid "PID"
+#~ msgstr "合作者身份(PID)"
+
+#~ msgid "Debug Log"
+#~ msgstr "开启日志"

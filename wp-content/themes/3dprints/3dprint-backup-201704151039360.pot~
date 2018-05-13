@@ -1,0 +1,1697 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-05 18:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:6
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:12
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#. Name of the template
+#. Name of the theme
+msgid "3D Prints"
+msgstr ""
+
+#: page-prints.php:8
+msgid "Add 3D STL Files"
+msgstr ""
+
+#: page-prints.php:15
+msgid "Other formats? Please send through"
+msgstr ""
+
+#: page-prints.php:17
+msgid ""
+"1. Only one part allow in one STL file. &nbsp;&nbsp;2. Max 10 STL files for "
+"one upload. Max 64M for each file."
+msgstr ""
+
+#: page-prints.php:33
+msgid "Clear All"
+msgstr ""
+
+#: page-prints.php:35
+msgid "Total files:"
+msgstr ""
+
+#: page-prints.php:36
+msgid "Total capacity:"
+msgstr ""
+
+#: page-prints.php:49
+msgid "3D Preview"
+msgstr ""
+
+#: page-prints.php:81 woocommerce/cart/cart.php:108
+msgid "Material"
+msgstr ""
+
+#: page-prints.php:82 woocommerce/cart/cart.php:109
+msgid "Color"
+msgstr ""
+
+#: page-prints.php:83
+msgid "Accuracy"
+msgstr ""
+
+#: page-prints.php:84
+msgid "Tolerance Time"
+msgstr ""
+
+#: page-prints.php:85
+msgid "Estimated Delivery"
+msgstr ""
+
+#: page-prints.php:86
+msgid "Files"
+msgstr ""
+
+#: page-prints.php:87
+msgid "Total Cost"
+msgstr ""
+
+#: page-prints.php:112
+#, php-format
+msgid "%s hours (at 22:00 on %s before) last"
+msgstr ""
+
+#: page-prints.php:114
+msgid "seven days time rate"
+msgstr ""
+
+#: page-prints.php:117
+msgid "Add to Cart"
+msgstr ""
+
+#: functions.php:284
+msgid "Error. Nonce field. Refresh the page."
+msgstr ""
+
+#: functions.php:354
+msgid "Error loading file."
+msgstr ""
+
+#: functions.php:358 functions.php:531
+msgid "Error. File not found."
+msgstr ""
+
+#: functions.php:520
+msgid "Error. Failed create item."
+msgstr ""
+
+#: functions.php:525
+msgid "Error. File not found in dir."
+msgstr ""
+
+#: header.php:40 header.php:40
+msgid "Logout"
+msgstr ""
+
+#: header.php:45 header.php:45 header.php:45
+msgid "Login | Register"
+msgstr ""
+
+#: header.php:48
+msgid "Online:"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: includes/woo.php:96
+msgid "View your cart"
+msgstr ""
+
+#: includes/woo.php:98
+msgid "Commodity"
+msgstr ""
+
+#: includes/woo.php:98
+msgid "Yuan"
+msgstr ""
+
+#: includes/woo.php:144 includes/woo.php:145 includes/woo.php:205
+#: includes/woo.php:206 includes/woo.php:281 includes/woo.php:282
+#: includes/woo.php:345 includes/woo.php:346
+msgid "Name"
+msgstr ""
+
+#: includes/woo.php:151 includes/woo.php:152 includes/woo.php:212
+#: includes/woo.php:213 includes/woo.php:288 includes/woo.php:289
+#: includes/woo.php:354 includes/woo.php:355
+msgid "Province"
+msgstr ""
+
+#: includes/woo.php:155 includes/woo.php:156 includes/woo.php:216
+#: includes/woo.php:217 includes/woo.php:292 includes/woo.php:293
+#: includes/woo.php:358 includes/woo.php:359
+msgid "Postal Code"
+msgstr ""
+
+#: includes/woo.php:162 includes/woo.php:163 includes/woo.php:223
+#: includes/woo.php:224 includes/woo.php:299 includes/woo.php:300
+#: includes/woo.php:365 includes/woo.php:366
+msgid "Phone No.1"
+msgstr ""
+
+#: includes/woo.php:169 includes/woo.php:239 includes/woo.php:306
+#: includes/woo.php:372 includes/woo.php:402 includes/woo.php:414
+msgid "Phone No.2"
+msgstr ""
+
+#: includes/woo.php:170 includes/woo.php:240 includes/woo.php:307
+#: includes/woo.php:373
+msgctxt "placeholder"
+msgid "Phone No.2"
+msgstr ""
+
+#: includes/woo.php:230 includes/woo.php:349 includes/woo.php:350
+msgid "Email Address"
+msgstr ""
+
+#: includes/woo.php:231
+msgctxt "placeholder"
+msgid "Email Address"
+msgstr ""
+
+#: includes/woo.php:404
+msgid "Tax"
+msgstr ""
+
+#: includes/woo.php:405
+msgid "Company Name"
+msgstr ""
+
+#: includes/woo.php:412
+msgid "Email"
+msgstr ""
+
+#: includes/woo.php:413
+msgid "Phone"
+msgstr ""
+
+#: includes/woo.php:435
+msgid "Delivery Means"
+msgstr ""
+
+#: includes/woo.php:435 includes/woo.php:474
+#: woocommerce/checkout/form-billing.php:30
+#: woocommerce/checkout/form-billing.php:34
+#: woocommerce/checkout/form-shipping.php:32
+msgid "Change"
+msgstr ""
+
+#: includes/woo.php:470 includes/woo.php:485
+msgctxt "form"
+msgid "None"
+msgstr ""
+
+#: includes/woo.php:474
+msgid "Invoice Info"
+msgstr ""
+
+#: includes/woo.php:490 includes/woo.php:492
+msgid "VAT invoice"
+msgstr ""
+
+#: includes/woo.php:498 includes/woo.php:500
+msgid "Customer Company Name"
+msgstr ""
+
+#: includes/woo.php:657
+msgid "VAT Tax"
+msgstr ""
+
+#: includes/woo.php:686
+msgid "Taiwan / 台湾"
+msgstr ""
+
+#: includes/woo.php:687
+msgid "Hong Kong Special Administrative Region / 香港特别行政区"
+msgstr ""
+
+#: includes/woo.php:819
+msgid "Customer Company Name is a required field."
+msgstr ""
+
+#: includes/CN_cities.php:9 includes/CN_cities.php:13 includes/CN_cities.php:99
+#: includes/CN_cities.php:288
+msgid "市辖区"
+msgstr ""
+
+#: includes/CN_cities.php:10 includes/CN_cities.php:14
+#: includes/CN_cities.php:100 includes/CN_cities.php:289
+msgid "县"
+msgstr ""
+
+#: includes/CN_cities.php:17
+msgid "石家庄市"
+msgstr ""
+
+#: includes/CN_cities.php:18
+msgid "唐山市"
+msgstr ""
+
+#: includes/CN_cities.php:19
+msgid "秦皇岛市"
+msgstr ""
+
+#: includes/CN_cities.php:20
+msgid "邯郸市"
+msgstr ""
+
+#: includes/CN_cities.php:21
+msgid "邢台市"
+msgstr ""
+
+#: includes/CN_cities.php:22
+msgid "保定市"
+msgstr ""
+
+#: includes/CN_cities.php:23
+msgid "张家口市"
+msgstr ""
+
+#: includes/CN_cities.php:24
+msgid "承德市"
+msgstr ""
+
+#: includes/CN_cities.php:25
+msgid "沧州市"
+msgstr ""
+
+#: includes/CN_cities.php:26
+msgid "廊坊市"
+msgstr ""
+
+#: includes/CN_cities.php:27
+msgid "衡水市"
+msgstr ""
+
+#: includes/CN_cities.php:30
+msgid "太原市"
+msgstr ""
+
+#: includes/CN_cities.php:31
+msgid "大同市"
+msgstr ""
+
+#: includes/CN_cities.php:32
+msgid "阳泉市"
+msgstr ""
+
+#: includes/CN_cities.php:33
+msgid "长治市"
+msgstr ""
+
+#: includes/CN_cities.php:34
+msgid "晋城市"
+msgstr ""
+
+#: includes/CN_cities.php:35
+msgid "朔州市"
+msgstr ""
+
+#: includes/CN_cities.php:36
+msgid "晋中市"
+msgstr ""
+
+#: includes/CN_cities.php:37
+msgid "运城市"
+msgstr ""
+
+#: includes/CN_cities.php:38
+msgid "忻州市"
+msgstr ""
+
+#: includes/CN_cities.php:39
+msgid "临汾市"
+msgstr ""
+
+#: includes/CN_cities.php:40
+msgid "吕梁市"
+msgstr ""
+
+#: includes/CN_cities.php:43
+msgid "呼和浩特市"
+msgstr ""
+
+#: includes/CN_cities.php:44
+msgid "包头市"
+msgstr ""
+
+#: includes/CN_cities.php:45
+msgid "乌海市"
+msgstr ""
+
+#: includes/CN_cities.php:46
+msgid "赤峰市"
+msgstr ""
+
+#: includes/CN_cities.php:47
+msgid "通辽市"
+msgstr ""
+
+#: includes/CN_cities.php:48
+msgid "鄂尔多斯市"
+msgstr ""
+
+#: includes/CN_cities.php:49
+msgid "呼伦贝尔市"
+msgstr ""
+
+#: includes/CN_cities.php:50
+msgid "巴彦淖尔市"
+msgstr ""
+
+#: includes/CN_cities.php:51
+msgid "乌兰察布市"
+msgstr ""
+
+#: includes/CN_cities.php:52
+msgid "兴安盟"
+msgstr ""
+
+#: includes/CN_cities.php:53
+msgid "锡林郭勒盟"
+msgstr ""
+
+#: includes/CN_cities.php:54
+msgid "阿拉善盟"
+msgstr ""
+
+#: includes/CN_cities.php:57
+msgid "沈阳市"
+msgstr ""
+
+#: includes/CN_cities.php:58
+msgid "大连市"
+msgstr ""
+
+#: includes/CN_cities.php:59
+msgid "鞍山市"
+msgstr ""
+
+#: includes/CN_cities.php:60
+msgid "抚顺市"
+msgstr ""
+
+#: includes/CN_cities.php:61
+msgid "本溪市"
+msgstr ""
+
+#: includes/CN_cities.php:62
+msgid "丹东市"
+msgstr ""
+
+#: includes/CN_cities.php:63
+msgid "锦州市"
+msgstr ""
+
+#: includes/CN_cities.php:64
+msgid "营口市"
+msgstr ""
+
+#: includes/CN_cities.php:65
+msgid "阜新市"
+msgstr ""
+
+#: includes/CN_cities.php:66
+msgid "辽阳市"
+msgstr ""
+
+#: includes/CN_cities.php:67
+msgid "盘锦市"
+msgstr ""
+
+#: includes/CN_cities.php:68
+msgid "铁岭市"
+msgstr ""
+
+#: includes/CN_cities.php:69
+msgid "朝阳市"
+msgstr ""
+
+#: includes/CN_cities.php:70
+msgid "葫芦岛市"
+msgstr ""
+
+#: includes/CN_cities.php:73
+msgid "长春市"
+msgstr ""
+
+#: includes/CN_cities.php:74
+msgid "吉林市"
+msgstr ""
+
+#: includes/CN_cities.php:75
+msgid "四平市"
+msgstr ""
+
+#: includes/CN_cities.php:76
+msgid "辽源市"
+msgstr ""
+
+#: includes/CN_cities.php:77
+msgid "通化市"
+msgstr ""
+
+#: includes/CN_cities.php:78
+msgid "白山市"
+msgstr ""
+
+#: includes/CN_cities.php:79
+msgid "松原市"
+msgstr ""
+
+#: includes/CN_cities.php:80
+msgid "白城市"
+msgstr ""
+
+#: includes/CN_cities.php:81
+msgid "延边朝鲜族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:84
+msgid "哈尔滨市"
+msgstr ""
+
+#: includes/CN_cities.php:85
+msgid "齐齐哈尔市"
+msgstr ""
+
+#: includes/CN_cities.php:86
+msgid "鸡西市"
+msgstr ""
+
+#: includes/CN_cities.php:87
+msgid "鹤岗市"
+msgstr ""
+
+#: includes/CN_cities.php:88
+msgid "双鸭山市"
+msgstr ""
+
+#: includes/CN_cities.php:89
+msgid "大庆市"
+msgstr ""
+
+#: includes/CN_cities.php:90
+msgid "伊春市"
+msgstr ""
+
+#: includes/CN_cities.php:91
+msgid "佳木斯市"
+msgstr ""
+
+#: includes/CN_cities.php:92
+msgid "七台河市"
+msgstr ""
+
+#: includes/CN_cities.php:93
+msgid "牡丹江市"
+msgstr ""
+
+#: includes/CN_cities.php:94
+msgid "黑河市"
+msgstr ""
+
+#: includes/CN_cities.php:95
+msgid "绥化市"
+msgstr ""
+
+#: includes/CN_cities.php:96
+msgid "大兴安岭地区"
+msgstr ""
+
+#: includes/CN_cities.php:103
+msgid "南京市"
+msgstr ""
+
+#: includes/CN_cities.php:104
+msgid "无锡市"
+msgstr ""
+
+#: includes/CN_cities.php:105
+msgid "徐州市"
+msgstr ""
+
+#: includes/CN_cities.php:106
+msgid "常州市"
+msgstr ""
+
+#: includes/CN_cities.php:107
+msgid "苏州市"
+msgstr ""
+
+#: includes/CN_cities.php:108
+msgid "南通市"
+msgstr ""
+
+#: includes/CN_cities.php:109
+msgid "连云港市"
+msgstr ""
+
+#: includes/CN_cities.php:110
+msgid "淮安市"
+msgstr ""
+
+#: includes/CN_cities.php:111
+msgid "盐城市"
+msgstr ""
+
+#: includes/CN_cities.php:112
+msgid "扬州市"
+msgstr ""
+
+#: includes/CN_cities.php:113
+msgid "镇江市"
+msgstr ""
+
+#: includes/CN_cities.php:114
+msgid "泰州市"
+msgstr ""
+
+#: includes/CN_cities.php:115
+msgid "宿迁市"
+msgstr ""
+
+#: includes/CN_cities.php:118
+msgid "杭州市"
+msgstr ""
+
+#: includes/CN_cities.php:119
+msgid "宁波市"
+msgstr ""
+
+#: includes/CN_cities.php:120
+msgid "温州市"
+msgstr ""
+
+#: includes/CN_cities.php:121
+msgid "嘉兴市"
+msgstr ""
+
+#: includes/CN_cities.php:122
+msgid "湖州市"
+msgstr ""
+
+#: includes/CN_cities.php:123
+msgid "绍兴市"
+msgstr ""
+
+#: includes/CN_cities.php:124
+msgid "金华市"
+msgstr ""
+
+#: includes/CN_cities.php:125
+msgid "衢州市"
+msgstr ""
+
+#: includes/CN_cities.php:126
+msgid "舟山市"
+msgstr ""
+
+#: includes/CN_cities.php:127
+msgid "台州市"
+msgstr ""
+
+#: includes/CN_cities.php:128
+msgid "丽水市"
+msgstr ""
+
+#: includes/CN_cities.php:131
+msgid "合肥市"
+msgstr ""
+
+#: includes/CN_cities.php:132
+msgid "芜湖市"
+msgstr ""
+
+#: includes/CN_cities.php:133
+msgid "蚌埠市"
+msgstr ""
+
+#: includes/CN_cities.php:134
+msgid "淮南市"
+msgstr ""
+
+#: includes/CN_cities.php:135
+msgid "马鞍山市"
+msgstr ""
+
+#: includes/CN_cities.php:136
+msgid "淮北市"
+msgstr ""
+
+#: includes/CN_cities.php:137
+msgid "铜陵市"
+msgstr ""
+
+#: includes/CN_cities.php:138
+msgid "安庆市"
+msgstr ""
+
+#: includes/CN_cities.php:139
+msgid "黄山市"
+msgstr ""
+
+#: includes/CN_cities.php:140
+msgid "滁州市"
+msgstr ""
+
+#: includes/CN_cities.php:141
+msgid "阜阳市"
+msgstr ""
+
+#: includes/CN_cities.php:142
+msgid "宿州市"
+msgstr ""
+
+#: includes/CN_cities.php:143
+msgid "巢湖市"
+msgstr ""
+
+#: includes/CN_cities.php:144
+msgid "六安市"
+msgstr ""
+
+#: includes/CN_cities.php:145
+msgid "亳州市"
+msgstr ""
+
+#: includes/CN_cities.php:146
+msgid "池州市"
+msgstr ""
+
+#: includes/CN_cities.php:147
+msgid "宣城市"
+msgstr ""
+
+#: includes/CN_cities.php:150
+msgid "福州市"
+msgstr ""
+
+#: includes/CN_cities.php:151
+msgid "厦门市"
+msgstr ""
+
+#: includes/CN_cities.php:152
+msgid "莆田市"
+msgstr ""
+
+#: includes/CN_cities.php:153
+msgid "三明市"
+msgstr ""
+
+#: includes/CN_cities.php:154
+msgid "泉州市"
+msgstr ""
+
+#: includes/CN_cities.php:155
+msgid "漳州市"
+msgstr ""
+
+#: includes/CN_cities.php:156
+msgid "南平市"
+msgstr ""
+
+#: includes/CN_cities.php:157
+msgid "龙岩市"
+msgstr ""
+
+#: includes/CN_cities.php:158
+msgid "宁德市"
+msgstr ""
+
+#: includes/CN_cities.php:161
+msgid "南昌市"
+msgstr ""
+
+#: includes/CN_cities.php:162
+msgid "景德镇市"
+msgstr ""
+
+#: includes/CN_cities.php:163
+msgid "萍乡市"
+msgstr ""
+
+#: includes/CN_cities.php:164
+msgid "九江市"
+msgstr ""
+
+#: includes/CN_cities.php:165
+msgid "新余市"
+msgstr ""
+
+#: includes/CN_cities.php:166
+msgid "鹰潭市"
+msgstr ""
+
+#: includes/CN_cities.php:167
+msgid "赣州市"
+msgstr ""
+
+#: includes/CN_cities.php:168
+msgid "吉安市"
+msgstr ""
+
+#: includes/CN_cities.php:169
+msgid "宜春市"
+msgstr ""
+
+#: includes/CN_cities.php:170
+msgid "抚州市"
+msgstr ""
+
+#: includes/CN_cities.php:171
+msgid "上饶市"
+msgstr ""
+
+#: includes/CN_cities.php:174
+msgid "济南市"
+msgstr ""
+
+#: includes/CN_cities.php:175
+msgid "青岛市"
+msgstr ""
+
+#: includes/CN_cities.php:176
+msgid "淄博市"
+msgstr ""
+
+#: includes/CN_cities.php:177
+msgid "枣庄市"
+msgstr ""
+
+#: includes/CN_cities.php:178
+msgid "东营市"
+msgstr ""
+
+#: includes/CN_cities.php:179
+msgid "烟台市"
+msgstr ""
+
+#: includes/CN_cities.php:180
+msgid "潍坊市"
+msgstr ""
+
+#: includes/CN_cities.php:181
+msgid "济宁市"
+msgstr ""
+
+#: includes/CN_cities.php:182
+msgid "泰安市"
+msgstr ""
+
+#: includes/CN_cities.php:183
+msgid "威海市"
+msgstr ""
+
+#: includes/CN_cities.php:184
+msgid "日照市"
+msgstr ""
+
+#: includes/CN_cities.php:185
+msgid "莱芜市"
+msgstr ""
+
+#: includes/CN_cities.php:186
+msgid "临沂市"
+msgstr ""
+
+#: includes/CN_cities.php:187
+msgid "德州市"
+msgstr ""
+
+#: includes/CN_cities.php:188
+msgid "聊城市"
+msgstr ""
+
+#: includes/CN_cities.php:189
+msgid "滨州市"
+msgstr ""
+
+#: includes/CN_cities.php:190
+msgid "荷泽市"
+msgstr ""
+
+#: includes/CN_cities.php:193
+msgid "郑州市"
+msgstr ""
+
+#: includes/CN_cities.php:194
+msgid "开封市"
+msgstr ""
+
+#: includes/CN_cities.php:195
+msgid "洛阳市"
+msgstr ""
+
+#: includes/CN_cities.php:196
+msgid "平顶山市"
+msgstr ""
+
+#: includes/CN_cities.php:197
+msgid "安阳市"
+msgstr ""
+
+#: includes/CN_cities.php:198
+msgid "鹤壁市"
+msgstr ""
+
+#: includes/CN_cities.php:199
+msgid "新乡市"
+msgstr ""
+
+#: includes/CN_cities.php:200
+msgid "焦作市"
+msgstr ""
+
+#: includes/CN_cities.php:201
+msgid "濮阳市"
+msgstr ""
+
+#: includes/CN_cities.php:202
+msgid "许昌市"
+msgstr ""
+
+#: includes/CN_cities.php:203
+msgid "漯河市"
+msgstr ""
+
+#: includes/CN_cities.php:204
+msgid "三门峡市"
+msgstr ""
+
+#: includes/CN_cities.php:205
+msgid "南阳市"
+msgstr ""
+
+#: includes/CN_cities.php:206
+msgid "商丘市"
+msgstr ""
+
+#: includes/CN_cities.php:207
+msgid "信阳市"
+msgstr ""
+
+#: includes/CN_cities.php:208
+msgid "周口市"
+msgstr ""
+
+#: includes/CN_cities.php:209
+msgid "驻马店市"
+msgstr ""
+
+#: includes/CN_cities.php:212
+msgid "武汉市"
+msgstr ""
+
+#: includes/CN_cities.php:213
+msgid "黄石市"
+msgstr ""
+
+#: includes/CN_cities.php:214
+msgid "十堰市"
+msgstr ""
+
+#: includes/CN_cities.php:215
+msgid "宜昌市"
+msgstr ""
+
+#: includes/CN_cities.php:216
+msgid "襄樊市"
+msgstr ""
+
+#: includes/CN_cities.php:217
+msgid "鄂州市"
+msgstr ""
+
+#: includes/CN_cities.php:218
+msgid "荆门市"
+msgstr ""
+
+#: includes/CN_cities.php:219
+msgid "孝感市"
+msgstr ""
+
+#: includes/CN_cities.php:220
+msgid "荆州市"
+msgstr ""
+
+#: includes/CN_cities.php:221
+msgid "黄冈市"
+msgstr ""
+
+#: includes/CN_cities.php:222
+msgid "咸宁市"
+msgstr ""
+
+#: includes/CN_cities.php:223
+msgid "随州市"
+msgstr ""
+
+#: includes/CN_cities.php:224
+msgid "恩施土家族苗族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:225 includes/CN_cities.php:414
+msgid "省直辖行政单位"
+msgstr ""
+
+#: includes/CN_cities.php:228
+msgid "长沙市"
+msgstr ""
+
+#: includes/CN_cities.php:229
+msgid "株洲市"
+msgstr ""
+
+#: includes/CN_cities.php:230
+msgid "湘潭市"
+msgstr ""
+
+#: includes/CN_cities.php:231
+msgid "衡阳市"
+msgstr ""
+
+#: includes/CN_cities.php:232
+msgid "邵阳市"
+msgstr ""
+
+#: includes/CN_cities.php:233
+msgid "岳阳市"
+msgstr ""
+
+#: includes/CN_cities.php:234
+msgid "常德市"
+msgstr ""
+
+#: includes/CN_cities.php:235
+msgid "张家界市"
+msgstr ""
+
+#: includes/CN_cities.php:236
+msgid "益阳市"
+msgstr ""
+
+#: includes/CN_cities.php:237
+msgid "郴州市"
+msgstr ""
+
+#: includes/CN_cities.php:238
+msgid "永州市"
+msgstr ""
+
+#: includes/CN_cities.php:239
+msgid "怀化市"
+msgstr ""
+
+#: includes/CN_cities.php:240
+msgid "娄底市"
+msgstr ""
+
+#: includes/CN_cities.php:241
+msgid "湘西土家族苗族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:244
+msgid "广州市"
+msgstr ""
+
+#: includes/CN_cities.php:245
+msgid "韶关市"
+msgstr ""
+
+#: includes/CN_cities.php:246
+msgid "深圳市"
+msgstr ""
+
+#: includes/CN_cities.php:247
+msgid "珠海市"
+msgstr ""
+
+#: includes/CN_cities.php:248
+msgid "汕头市"
+msgstr ""
+
+#: includes/CN_cities.php:249
+msgid "佛山市"
+msgstr ""
+
+#: includes/CN_cities.php:250
+msgid "江门市"
+msgstr ""
+
+#: includes/CN_cities.php:251
+msgid "湛江市"
+msgstr ""
+
+#: includes/CN_cities.php:252
+msgid "茂名市"
+msgstr ""
+
+#: includes/CN_cities.php:253
+msgid "肇庆市"
+msgstr ""
+
+#: includes/CN_cities.php:254
+msgid "惠州市"
+msgstr ""
+
+#: includes/CN_cities.php:255
+msgid "梅州市"
+msgstr ""
+
+#: includes/CN_cities.php:256
+msgid "汕尾市"
+msgstr ""
+
+#: includes/CN_cities.php:257
+msgid "河源市"
+msgstr ""
+
+#: includes/CN_cities.php:258
+msgid "阳江市"
+msgstr ""
+
+#: includes/CN_cities.php:259
+msgid "清远市"
+msgstr ""
+
+#: includes/CN_cities.php:260
+msgid "东莞市"
+msgstr ""
+
+#: includes/CN_cities.php:261
+msgid "中山市"
+msgstr ""
+
+#: includes/CN_cities.php:262
+msgid "潮州市"
+msgstr ""
+
+#: includes/CN_cities.php:263
+msgid "揭阳市"
+msgstr ""
+
+#: includes/CN_cities.php:264
+msgid "云浮市"
+msgstr ""
+
+#: includes/CN_cities.php:267
+msgid "南宁市"
+msgstr ""
+
+#: includes/CN_cities.php:268
+msgid "柳州市"
+msgstr ""
+
+#: includes/CN_cities.php:269
+msgid "桂林市"
+msgstr ""
+
+#: includes/CN_cities.php:270
+msgid "梧州市"
+msgstr ""
+
+#: includes/CN_cities.php:271
+msgid "北海市"
+msgstr ""
+
+#: includes/CN_cities.php:272
+msgid "防城港市"
+msgstr ""
+
+#: includes/CN_cities.php:273
+msgid "钦州市"
+msgstr ""
+
+#: includes/CN_cities.php:274
+msgid "贵港市"
+msgstr ""
+
+#: includes/CN_cities.php:275
+msgid "玉林市"
+msgstr ""
+
+#: includes/CN_cities.php:276
+msgid "百色市"
+msgstr ""
+
+#: includes/CN_cities.php:277
+msgid "贺州市"
+msgstr ""
+
+#: includes/CN_cities.php:278
+msgid "河池市"
+msgstr ""
+
+#: includes/CN_cities.php:279
+msgid "来宾市"
+msgstr ""
+
+#: includes/CN_cities.php:280
+msgid "崇左市"
+msgstr ""
+
+#: includes/CN_cities.php:283
+msgid "海口市"
+msgstr ""
+
+#: includes/CN_cities.php:284
+msgid "三亚市"
+msgstr ""
+
+#: includes/CN_cities.php:285
+msgid "省直辖县级行政单位"
+msgstr ""
+
+#: includes/CN_cities.php:290
+msgid "市"
+msgstr ""
+
+#: includes/CN_cities.php:293
+msgid "成都市"
+msgstr ""
+
+#: includes/CN_cities.php:294
+msgid "自贡市"
+msgstr ""
+
+#: includes/CN_cities.php:295
+msgid "攀枝花市"
+msgstr ""
+
+#: includes/CN_cities.php:296
+msgid "泸州市"
+msgstr ""
+
+#: includes/CN_cities.php:297
+msgid "德阳市"
+msgstr ""
+
+#: includes/CN_cities.php:298
+msgid "绵阳市"
+msgstr ""
+
+#: includes/CN_cities.php:299
+msgid "广元市"
+msgstr ""
+
+#: includes/CN_cities.php:300
+msgid "遂宁市"
+msgstr ""
+
+#: includes/CN_cities.php:301
+msgid "内江市"
+msgstr ""
+
+#: includes/CN_cities.php:302
+msgid "乐山市"
+msgstr ""
+
+#: includes/CN_cities.php:303
+msgid "南充市"
+msgstr ""
+
+#: includes/CN_cities.php:304
+msgid "眉山市"
+msgstr ""
+
+#: includes/CN_cities.php:305
+msgid "宜宾市"
+msgstr ""
+
+#: includes/CN_cities.php:306
+msgid "广安市"
+msgstr ""
+
+#: includes/CN_cities.php:307
+msgid "达州市"
+msgstr ""
+
+#: includes/CN_cities.php:308
+msgid "雅安市"
+msgstr ""
+
+#: includes/CN_cities.php:309
+msgid "巴中市"
+msgstr ""
+
+#: includes/CN_cities.php:310
+msgid "资阳市"
+msgstr ""
+
+#: includes/CN_cities.php:311
+msgid "阿坝藏族羌族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:312
+msgid "甘孜藏族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:313
+msgid "凉山彝族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:316
+msgid "贵阳市"
+msgstr ""
+
+#: includes/CN_cities.php:317
+msgid "六盘水市"
+msgstr ""
+
+#: includes/CN_cities.php:318
+msgid "遵义市"
+msgstr ""
+
+#: includes/CN_cities.php:319
+msgid "安顺市"
+msgstr ""
+
+#: includes/CN_cities.php:320
+msgid "铜仁地区"
+msgstr ""
+
+#: includes/CN_cities.php:321
+msgid "黔西南布依族苗族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:322
+msgid "毕节地区"
+msgstr ""
+
+#: includes/CN_cities.php:323
+msgid "黔东南苗族侗族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:324
+msgid "黔南布依族苗族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:327
+msgid "昆明市"
+msgstr ""
+
+#: includes/CN_cities.php:328
+msgid "曲靖市"
+msgstr ""
+
+#: includes/CN_cities.php:329
+msgid "玉溪市"
+msgstr ""
+
+#: includes/CN_cities.php:330
+msgid "保山市"
+msgstr ""
+
+#: includes/CN_cities.php:331
+msgid "昭通市"
+msgstr ""
+
+#: includes/CN_cities.php:332
+msgid "丽江市"
+msgstr ""
+
+#: includes/CN_cities.php:333
+msgid "思茅市"
+msgstr ""
+
+#: includes/CN_cities.php:334
+msgid "临沧市"
+msgstr ""
+
+#: includes/CN_cities.php:335
+msgid "楚雄彝族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:336
+msgid "红河哈尼族彝族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:337
+msgid "文山壮族苗族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:338
+msgid "西双版纳傣族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:339
+msgid "大理白族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:340
+msgid "德宏傣族景颇族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:341
+msgid "怒江傈僳族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:342
+msgid "迪庆藏族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:345
+msgid "拉萨市"
+msgstr ""
+
+#: includes/CN_cities.php:346
+msgid "昌都地区"
+msgstr ""
+
+#: includes/CN_cities.php:347
+msgid "山南地区"
+msgstr ""
+
+#: includes/CN_cities.php:348
+msgid "日喀则地区"
+msgstr ""
+
+#: includes/CN_cities.php:349
+msgid "那曲地区"
+msgstr ""
+
+#: includes/CN_cities.php:350
+msgid "阿里地区"
+msgstr ""
+
+#: includes/CN_cities.php:351
+msgid "林芝地区"
+msgstr ""
+
+#: includes/CN_cities.php:354
+msgid "西安市"
+msgstr ""
+
+#: includes/CN_cities.php:355
+msgid "铜川市"
+msgstr ""
+
+#: includes/CN_cities.php:356
+msgid "宝鸡市"
+msgstr ""
+
+#: includes/CN_cities.php:357
+msgid "咸阳市"
+msgstr ""
+
+#: includes/CN_cities.php:358
+msgid "渭南市"
+msgstr ""
+
+#: includes/CN_cities.php:359
+msgid "延安市"
+msgstr ""
+
+#: includes/CN_cities.php:360
+msgid "汉中市"
+msgstr ""
+
+#: includes/CN_cities.php:361
+msgid "榆林市"
+msgstr ""
+
+#: includes/CN_cities.php:362
+msgid "安康市"
+msgstr ""
+
+#: includes/CN_cities.php:363
+msgid "商洛市"
+msgstr ""
+
+#: includes/CN_cities.php:366
+msgid "兰州市"
+msgstr ""
+
+#: includes/CN_cities.php:367
+msgid "嘉峪关市"
+msgstr ""
+
+#: includes/CN_cities.php:368
+msgid "金昌市"
+msgstr ""
+
+#: includes/CN_cities.php:369
+msgid "白银市"
+msgstr ""
+
+#: includes/CN_cities.php:370
+msgid "天水市"
+msgstr ""
+
+#: includes/CN_cities.php:371
+msgid "武威市"
+msgstr ""
+
+#: includes/CN_cities.php:372
+msgid "张掖市"
+msgstr ""
+
+#: includes/CN_cities.php:373
+msgid "平凉市"
+msgstr ""
+
+#: includes/CN_cities.php:374
+msgid "酒泉市"
+msgstr ""
+
+#: includes/CN_cities.php:375
+msgid "庆阳市"
+msgstr ""
+
+#: includes/CN_cities.php:376
+msgid "定西市"
+msgstr ""
+
+#: includes/CN_cities.php:377
+msgid "陇南市"
+msgstr ""
+
+#: includes/CN_cities.php:378
+msgid "临夏回族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:379
+msgid "甘南藏族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:382
+msgid "西宁市"
+msgstr ""
+
+#: includes/CN_cities.php:383
+msgid "海东地区"
+msgstr ""
+
+#: includes/CN_cities.php:384
+msgid "海北藏族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:385
+msgid "黄南藏族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:386
+msgid "海南藏族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:387
+msgid "果洛藏族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:388
+msgid "玉树藏族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:389
+msgid "海西蒙古族藏族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:392
+msgid "银川市"
+msgstr ""
+
+#: includes/CN_cities.php:393
+msgid "石嘴山市"
+msgstr ""
+
+#: includes/CN_cities.php:394
+msgid "吴忠市"
+msgstr ""
+
+#: includes/CN_cities.php:395
+msgid "固原市"
+msgstr ""
+
+#: includes/CN_cities.php:396
+msgid "中卫市"
+msgstr ""
+
+#: includes/CN_cities.php:400
+msgid "乌鲁木齐市"
+msgstr ""
+
+#: includes/CN_cities.php:401
+msgid "克拉玛依市"
+msgstr ""
+
+#: includes/CN_cities.php:402
+msgid "吐鲁番地区"
+msgstr ""
+
+#: includes/CN_cities.php:403
+msgid "哈密地区"
+msgstr ""
+
+#: includes/CN_cities.php:404
+msgid "昌吉回族自治州"
+msgstr ""
+
+#: includes/CN_cities.php:405
+msgid "博尔塔拉蒙古自治州"
+msgstr ""
+
+#: includes/CN_cities.php:406
+msgid "巴音郭楞蒙古自治州"
+msgstr ""
+
+#: includes/CN_cities.php:407
+msgid "阿克苏地区"
+msgstr ""
+
+#: includes/CN_cities.php:408
+msgid "克孜勒苏柯尔克孜自治州"
+msgstr ""
+
+#: includes/CN_cities.php:409
+msgid "喀什地区"
+msgstr ""
+
+#: includes/CN_cities.php:410
+msgid "和田地区"
+msgstr ""
+
+#: includes/CN_cities.php:411
+msgid "伊犁哈萨克自治州"
+msgstr ""
+
+#: includes/CN_cities.php:412
+msgid "塔城地区"
+msgstr ""
+
+#: includes/CN_cities.php:413
+msgid "阿勒泰地区"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Continue shopping"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:116
+msgid "Specification"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:123
+msgid "Unit Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:40
+msgid "Operating"
+msgstr ""
+
+#: woocommerce/cart/cart.php:110
+msgid "Resolution"
+msgstr ""
+
+#: woocommerce/cart/cart.php:111
+msgid "Lead Time"
+msgstr ""
+
+#: woocommerce/cart/cart.php:111
+msgid "hours"
+msgstr ""
+
+#: woocommerce/cart/cart.php:112
+msgid "File"
+msgstr ""
+
+#: woocommerce/cart/cart.php:117
+msgid "Volume"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118
+msgid "Surface area"
+msgstr ""
+
+#: woocommerce/cart/cart.php:119
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/cart/cart.php:120
+msgid "Density"
+msgstr ""
+
+#: woocommerce/cart/cart.php:204
+msgid "Estimated delivery time"
+msgstr ""
+
+#: woocommerce/cart/cart.php:205
+msgid "Your product delivery time for the"
+msgstr ""
+
+#: woocommerce/cart/cart.php:207
+msgid ""
+"<span class=\"note\">Note:</span> When your order contains multiple items, "
+"the delivery time will be shipped the latest products prevail. If you have "
+"special needs, please remark in the \n"
+"order described, or call 0755-25583221 online customer service contact."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+#: woocommerce/checkout/form-billing.php:30
+#: woocommerce/checkout/form-billing.php:34
+#: woocommerce/emails/email-addresses.php:26
+#: woocommerce/emails/plain/email-addresses.php:23
+msgid "Consignee Info"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/myaccount/my-address.php:28
+#: woocommerce/checkout/form-shipping.php:30
+#: woocommerce/emails/email-addresses.php:32
+#: woocommerce/emails/plain/email-addresses.php:27
+msgid "Consignee Info 2"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:50
+msgid "Email address"
+msgstr ""
+
+#. Author of the theme
+msgid "Anonymous"
+msgstr ""

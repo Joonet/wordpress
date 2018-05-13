@@ -1,0 +1,437 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce微信支付（红包）\n"
+"POT-Creation-Date: 2017-03-29 15:16+0800\n"
+"PO-Revision-Date: 2017-03-29 15:16+0800\n"
+"Last-Translator: ranj <ranj@evget.com>\n"
+"Language-Team: 重庆迅虎网络有限公司 <jeff@xunhuweb.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:94
+msgid "Red Envelop Promotion Setting"
+msgstr "红包推广设置"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:98
+#: abstract-xh-wechat-wc-payment-gateway.php:147
+msgid "Unit Price Per Red Envelop"
+msgstr "单个红包价格"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:99
+#: abstract-xh-wechat-wc-payment-gateway.php:148
+msgid ""
+"Option 1: Enter the price (from 1 to 100), such as 3.5. Option 2: Enter the "
+"price range (from 1 to 200), such as 3 to 10 (the red envelop is rounded and "
+"delivered at random)"
+msgstr ""
+"方式1：输入1~100内的价格，如：3.5;方式2：输入1到200的范围价格，如3-10(随机取"
+"整发红包)"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:111
+#: abstract-xh-wechat-wc-payment-gateway.php:160
+msgid "No. of the remaining red envelop"
+msgstr "剩余红包个数"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:122
+#: abstract-xh-wechat-wc-payment-gateway.php:171
+msgid "No. of the red envelop sent"
+msgstr "已发红包个数"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:131
+#: abstract-xh-wechat-wc-payment-gateway.php:181
+msgid "The amount of the red envelop sent"
+msgstr "已发红包金额"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:143
+msgid "Red Envelop Upon Order Setting"
+msgstr "订单红包设置"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:259
+msgid "Red envelop upon order is required"
+msgstr "红包订单是必须的"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:263
+#, php-format
+msgid "The price of red envelop is not legal (￥%s)"
+msgstr "红包价格不合法(￥%s)"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:267
+msgid "The open ID of the recipient is required"
+msgstr "红包接收人的openid是必须的"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:271
+msgid "Merchant name is required"
+msgstr "商户名称是必须的"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:274
+msgid "Greetings are required"
+msgstr "祝福语是必须的"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:278
+msgid "Activity name is required"
+msgstr "活动名称是必须的"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:281
+msgid "Remark is required"
+msgstr "备注是必须的"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:384
+msgid "Red envelop promotion"
+msgstr "红包推广"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:506
+msgid "Unpaid or not via WeChat. Not able to get the open ID of the user"
+msgstr "订单未支付或不是微信支付。未获得用户的openid"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:521
+#: abstract-xh-wechat-wc-payment-gateway.php:820
+msgid "Red envelop upon order"
+msgstr "订单红包"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:540
+msgid "Sent Successfully"
+msgstr "发送成功"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:567
+msgid "Settings"
+msgstr "设置"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:744
+#: abstract-xh-wechat-wc-payment-gateway.php:770
+#: abstract-xh-wechat-wc-payment-gateway.php:842
+msgid "Order ID"
+msgstr "订单ID"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:745
+msgid "Search"
+msgstr "查询"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:751
+#: abstract-xh-wechat-wc-payment-gateway.php:876
+msgid "Bulk Operations "
+msgstr "批量操作"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:754
+#: abstract-xh-wechat-wc-payment-gateway.php:879
+msgid "Apply"
+msgstr "应用"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:765
+#: abstract-xh-wechat-wc-payment-gateway.php:837
+msgid "Check all"
+msgstr "选中所有"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:774
+#: abstract-xh-wechat-wc-payment-gateway.php:846
+msgid "User"
+msgstr "用户"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:778
+#: abstract-xh-wechat-wc-payment-gateway.php:850
+msgid "Amount"
+msgstr "金额"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:782
+#: abstract-xh-wechat-wc-payment-gateway.php:854
+msgid "Type"
+msgstr "类型"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:786
+#: abstract-xh-wechat-wc-payment-gateway.php:858
+msgid "Status"
+msgstr "状态"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:790
+#: abstract-xh-wechat-wc-payment-gateway.php:862
+msgid "Detail"
+msgstr "详细"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:794
+#: abstract-xh-wechat-wc-payment-gateway.php:866
+msgid "Time"
+msgstr "时间"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:817
+msgid "Promotional Red Envelop"
+msgstr "推广红包"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:823
+msgid "Success"
+msgstr "成功"
+
+#: abstract-xh-wechat-wc-payment-gateway.php:823
+msgid "Fail"
+msgstr "失败"
+
+#: class-xh-wechat-wc-payment-gateway.php:14
+#: class-xh-wechat-wc-payment-gateway.php:81
+msgid "Wechat Pay"
+msgstr "微信支付"
+
+#: class-xh-wechat-wc-payment-gateway.php:15
+msgid ""
+"WooCommerce WeChat Pay Plugin helps to add WeChat Pay payment gateway that "
+"supports the features including QR code payment, OA native payment, refund "
+"to WeChat wallet, exchange rate, automatic login, red envelop promotion and "
+"red envelop cashback. "
+msgstr ""
+"微信支付插件为WooCommerce增加微信支付网关，支持微信扫码支付和公众号原生支付功"
+"能，退款到微信零钱，汇率，微信自动登录，红包推广，红包返现等促销功能。"
+
+#: class-xh-wechat-wc-payment-gateway.php:72
+#: class-xh-wechat-wc-payment-gateway.php:133
+#: class-xh-wechat-wc-payment-gateway.php:141
+#: class-xh-wechat-wc-payment-gateway.php:159
+#: class-xh-wechat-wc-payment-gateway.php:199
+#: class-xh-wechat-wc-payment-gateway.php:263
+msgid "enable"
+msgstr "启用"
+
+#: class-xh-wechat-wc-payment-gateway.php:74
+msgid "enable wechat payment"
+msgstr "启用微信支付"
+
+#: class-xh-wechat-wc-payment-gateway.php:79
+msgid "Payment gateway name"
+msgstr "支付网关名称"
+
+#: class-xh-wechat-wc-payment-gateway.php:87
+msgid "Payment gateway description"
+msgstr "支付网关描述"
+
+#: class-xh-wechat-wc-payment-gateway.php:89
+msgid "QR code payment or OA native payment, credit card"
+msgstr "微信扫码支付或者微信公众号原生支付，支持信用卡"
+
+#: class-xh-wechat-wc-payment-gateway.php:95
+msgid "Instructions"
+msgstr "介绍"
+
+#: class-xh-wechat-wc-payment-gateway.php:98
+msgid "Instructions that will be added to the thank you page."
+msgstr "介绍信息会在“Thank you”页面显示"
+
+#: class-xh-wechat-wc-payment-gateway.php:103
+msgid "App ID (Application ID)"
+msgstr "AppID(应用ID)"
+
+#: class-xh-wechat-wc-payment-gateway.php:105
+msgid ""
+"Application ID can be found at the \"developer center\" column of WeChat "
+"public platform"
+msgstr "应用ID， 在微信公众平台中 “开发者中心”栏目可以查看到"
+
+#: class-xh-wechat-wc-payment-gateway.php:110
+msgid "App Key"
+msgstr "AppSecret(应用密钥)"
+
+#: class-xh-wechat-wc-payment-gateway.php:112
+msgid ""
+"Key can be found at the \"developer center\" column of WeChat public platform"
+msgstr "Secret， 在微信公众平台中 “开发者中心”栏目可以查看到"
+
+#: class-xh-wechat-wc-payment-gateway.php:118
+msgid "WeChat Pay Merchant ID"
+msgstr "微信支付商户号"
+
+#: class-xh-wechat-wc-payment-gateway.php:120
+msgid ""
+"Please enter your merchant ID. If you do not have one, please click <a "
+"target=\"_blank\" href=\"https://pay.weixin.qq.com/\"> to get</a>"
+msgstr ""
+"请输入商户账号，如果没有，<a target=\"_blank\" href=\"https://pay.weixin.qq."
+"com/\">点击这里</a>获取。"
+
+#: class-xh-wechat-wc-payment-gateway.php:125
+msgid "WeChat Pay Merchant Key"
+msgstr "微信支付密钥"
+
+#: class-xh-wechat-wc-payment-gateway.php:127
+msgid ""
+"The \"account setting\"--\"account security\"--\"set API key\" at WeChat "
+"merchant's platform. Editable but not viewable "
+msgstr ""
+"在微信商户平台中“账户设置”--“账户安全”--“设置API密钥”，只能修改不能查看"
+
+#: class-xh-wechat-wc-payment-gateway.php:134
+msgid "Enable WeChat shipping address"
+msgstr "启用微信收货地址"
+
+#: class-xh-wechat-wc-payment-gateway.php:137
+msgid ""
+"Add the modifiable default button style of <code>.btn-wechat-pay{ }</code> "
+"at theme style"
+msgstr "在主题样式中，新增<code>.btn-wechat-pay{ }</code>可修改默认按钮样式"
+
+#: class-xh-wechat-wc-payment-gateway.php:148
+msgid "Exchange rate setting"
+msgstr "汇率设置"
+
+#: class-xh-wechat-wc-payment-gateway.php:151
+msgid "Set the exchange rate to RMB. When it is RMB, the default is 1"
+msgstr "设置转换成人名币的汇率，(当前货币为人名币)时，默认值为1"
+
+#: class-xh-wechat-wc-payment-gateway.php:161
+msgid ""
+"Red envelop promotion: To share the product information to the circle of "
+"friends. Once the product is ordered, the sharer will get red envelop. The "
+"more share, the more possible red envelop."
+msgstr ""
+"红包推广：分享产品到朋友圈，此产品下单成功，分享者即可获得红包，分享越多，红"
+"包获得越多。"
+
+#: class-xh-wechat-wc-payment-gateway.php:167
+#: class-xh-wechat-wc-payment-gateway.php:217
+msgid "Merchant Name"
+msgstr "商户名称"
+
+#: class-xh-wechat-wc-payment-gateway.php:170
+#: class-xh-wechat-wc-payment-gateway.php:220
+msgid ""
+"【Required】The merchant name is required while sending red envelop. Your "
+"can enter your website name (6 Chinese characters at most)"
+msgstr "【必填】发送红包时，需要商户名称，您可以填写您的网站名(最多6个汉字)"
+
+#: class-xh-wechat-wc-payment-gateway.php:177
+#: class-xh-wechat-wc-payment-gateway.php:228
+msgid "Activity Name"
+msgstr "活动名称"
+
+#: class-xh-wechat-wc-payment-gateway.php:179
+msgid "Share and get rewarded"
+msgstr "分享有礼"
+
+#: class-xh-wechat-wc-payment-gateway.php:180
+#: class-xh-wechat-wc-payment-gateway.php:231
+msgid ""
+"【Required】The activity name is required while sending red envelop (6 "
+"Chinese characters at most)."
+msgstr "【必填】发送红包时，需要活动名称(最多6个汉字)"
+
+#: class-xh-wechat-wc-payment-gateway.php:187
+#: class-xh-wechat-wc-payment-gateway.php:238
+msgid "Greetings"
+msgstr "祝福语"
+
+#: class-xh-wechat-wc-payment-gateway.php:189
+#: class-xh-wechat-wc-payment-gateway.php:240
+msgid "Thanks for your time"
+msgstr "感谢参与"
+
+#: class-xh-wechat-wc-payment-gateway.php:190
+#: class-xh-wechat-wc-payment-gateway.php:241
+msgid ""
+"【Required】The greetings are required while sending red envelop (20 Chinese "
+"characters at most)."
+msgstr "【必填】发送红包时，需要祝福语(最多20个汉字)"
+
+#: class-xh-wechat-wc-payment-gateway.php:202
+msgid ""
+"Red Envelop Cashback: the cashback of red envelop will be available once the "
+"order is done successfully for the promotion and encouragement"
+msgstr "红包返现：用户下单成功，获得红包返现，用于促销活动，促进支付"
+
+#: class-xh-wechat-wc-payment-gateway.php:207
+msgid "Order Status"
+msgstr "订单状态"
+
+#: class-xh-wechat-wc-payment-gateway.php:210
+msgid "The red envelop is triggered when the order is selected"
+msgstr "订单处于选中状态时触发红包"
+
+#: class-xh-wechat-wc-payment-gateway.php:230
+msgid "Order Cashback"
+msgstr "订单返现"
+
+#: class-xh-wechat-wc-payment-gateway.php:252
+msgid "WeChat automatic login when there is no login found"
+msgstr "检查到用户未登录的情况下，进行微信登录"
+
+#: class-xh-wechat-wc-payment-gateway.php:254
+msgid "Disabled"
+msgstr "不启用"
+
+#: class-xh-wechat-wc-payment-gateway.php:255
+msgid "Enable wechat auto login in wechat client"
+msgstr "在微信客户端启用微信登录"
+
+#: class-xh-wechat-wc-payment-gateway.php:256
+msgid "Enable wechat auto login in wechat client,desktop forbidden."
+msgstr "在微信客户端启用微信登录，屏蔽桌面浏览。"
+
+#: class-xh-wechat-wc-payment-gateway.php:284
+msgid "Wrong Order"
+msgstr "错误的订单"
+
+#: class-xh-wechat-wc-payment-gateway.php:289
+msgid "The WeChat transaction ID is not found or the order is unpaid"
+msgstr "未找到微信支付交易号或订单未支付"
+
+#: class-xh-wechat-wc-payment-gateway.php:317
+msgid "Invalid Amount "
+msgstr "无效的退款金额"
+
+#: class-xh-wechat-wc-payment-gateway.php:435
+msgid "Please use WeChat QR code to do the payment "
+msgstr "请使用微信扫描二维码进行支付"
+
+#: class-xh-wechat-wc-payment-gateway.php:497
+msgid "WeChat Shipping Address"
+msgstr "微信收货地址"
+
+#: class-xh-wechat-wc-payment-gateway.php:498
+msgid "Synchronize Now"
+msgstr "立即同步"
+
+#: infrastructure/paging/class-xh-paging-model.php:25
+#, php-format
+msgid "%s items"
+msgstr "共%s个"
+
+#: infrastructure/paging/class-xh-paging-model.php:29
+msgid "first page"
+msgstr "第一页"
+
+#: infrastructure/paging/class-xh-paging-model.php:30
+msgid "prev page"
+msgstr "上一页"
+
+#: infrastructure/paging/class-xh-paging-model.php:36
+#, php-format
+msgid "page %s, %s pages"
+msgstr "第%s也，共%s页"
+
+#: infrastructure/paging/class-xh-paging-model.php:39
+msgid "next page"
+msgstr "下一页"
+
+#: infrastructure/paging/class-xh-paging-model.php:40
+msgid "last page"
+msgstr "最后一页"
+
+#: views/wechat-address.php:182
+msgid "Error, please try again later."
+msgstr "系统错误，请稍候重试"
+
+#: views/wechat-authorize-fail.php:20 views/wechat-authorize-fail.php:30
+msgid "WeChat loading fails"
+msgstr "微信加载失败"
+
+#: views/wechat-authorize.php:83
+msgid "User information loading fails"
+msgstr "微信用户信息加载失败"
+
+#~ msgid ""
+#~ "WeChat + PC access (automatic login within WeChat and viewable at PC end)"
+#~ msgstr "微信+PC访问(微信内自动微信登录,PC端正常浏览)"
+
+#~ msgid "Only for WeChat (fit for all WeChat apps with no PC end)"
+#~ msgstr "仅限微信访问(适合无PC端的微信应用)"

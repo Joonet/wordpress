@@ -1,0 +1,34 @@
+img {
+	max-width:  100%;
+	height: auto;
+}
+.alignleft,
+img.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 10px;
+}
+.alignright,
+img.alignright {
+	display: inline;
+	float: right;
+	margin-left: 10px;
+}
+.aligncenter,
+img.aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+img.alignleft,
+img.alignright,
+img.aligncenter {
+	margin-bottom: 10px;
+}
+table {
+    width: 100%;
+}
+h1, h2 {
+	margin: 0;
+}

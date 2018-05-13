@@ -1,0 +1,92 @@
+[2017-02-07 15:45:56][error] [,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:12,function:ERROR]1
+[2017-02-07 15:45:56][error] [,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:68,function:ERROR]2
+[2017-02-07 15:45:56][error] [,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-api.php,line:453,function:ERROR,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:19,function:notify,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:70,function:Handle]44
+[2017-02-07 15:45:56][error] [,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-api.php,line:459,function:ERROR,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:19,function:notify,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:70,function:Handle]<xml><appid><![CDATA[wx327b2562a8f1f20c]]></appid>
+<attach><![CDATA[12126]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1225854902]]></mch_id>
+<nonce_str><![CDATA[8bb792yolbtkxqjo0msa9n0pbdenpzvw]]></nonce_str>
+<openid><![CDATA[o8Mcbt7JkO9di1MyzeD3n3xqD4M0]]></openid>
+<out_trade_no><![CDATA[AF9E347A7E3C82F7004EA743D5093BDF]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[3C5D302C2FEA1CF8B2ADF8B8F24A9B71]]></sign>
+<time_end><![CDATA[20170207154549]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[4006842001201702079062285389]]></transaction_id>
+</xml>
+[2017-02-07 15:45:56][error] [,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:21,function:ERROR,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:59,function:Queryorder,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:60,function:NotifyProcess,function:NotifyCallBack,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-api.php,line:473,function:call_user_func,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:19,function:notify,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:70,function:Handle]33
+[2017-02-07 15:45:56][error] [,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:23,function:ERROR,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:59,function:Queryorder,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:60,function:NotifyProcess,function:NotifyCallBack,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-api.php,line:473,function:call_user_func,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:19,function:notify,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:70,function:Handle]3
+[2017-02-07 15:45:56][error] [,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:24,function:ERROR,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:59,function:Queryorder,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:60,function:NotifyProcess,function:NotifyCallBack,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-api.php,line:473,function:call_user_func,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:19,function:notify,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:70,function:Handle]Array
+(
+    [appid] => wx327b2562a8f1f20c
+    [attach] => 12126
+    [bank_type] => CFT
+    [cash_fee] => 1
+    [fee_type] => CNY
+    [is_subscribe] => Y
+    [mch_id] => 1225854902
+    [nonce_str] => ucSQe3dFlISJu6BR
+    [openid] => o8Mcbt7JkO9di1MyzeD3n3xqD4M0
+    [out_trade_no] => AF9E347A7E3C82F7004EA743D5093BDF
+    [result_code] => SUCCESS
+    [return_code] => SUCCESS
+    [return_msg] => OK
+    [sign] => F1A0EF0E15E0B7B83DC9FC01701AE702
+    [time_end] => 20170207154549
+    [total_fee] => 1
+    [trade_state] => SUCCESS
+    [trade_type] => NATIVE
+    [transaction_id] => 4006842001201702079062285389
+)
+
+[2017-02-07 15:46:08][error] [,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:12,function:ERROR]1
+[2017-02-07 15:46:08][error] [,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:68,function:ERROR]2
+[2017-02-07 15:46:08][error] [,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-api.php,line:453,function:ERROR,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:19,function:notify,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:70,function:Handle]44
+[2017-02-07 15:46:08][error] [,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-api.php,line:459,function:ERROR,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:19,function:notify,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:70,function:Handle]<xml><appid><![CDATA[wx327b2562a8f1f20c]]></appid>
+<attach><![CDATA[12126]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1225854902]]></mch_id>
+<nonce_str><![CDATA[8bb792yolbtkxqjo0msa9n0pbdenpzvw]]></nonce_str>
+<openid><![CDATA[o8Mcbt7JkO9di1MyzeD3n3xqD4M0]]></openid>
+<out_trade_no><![CDATA[AF9E347A7E3C82F7004EA743D5093BDF]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[3C5D302C2FEA1CF8B2ADF8B8F24A9B71]]></sign>
+<time_end><![CDATA[20170207154549]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[4006842001201702079062285389]]></transaction_id>
+</xml>
+[2017-02-07 15:46:08][error] [,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:21,function:ERROR,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:59,function:Queryorder,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:60,function:NotifyProcess,function:NotifyCallBack,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-api.php,line:473,function:call_user_func,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:19,function:notify,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:70,function:Handle]33
+[2017-02-07 15:46:08][error] [,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:23,function:ERROR,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:59,function:Queryorder,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:60,function:NotifyProcess,function:NotifyCallBack,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-api.php,line:473,function:call_user_func,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:19,function:notify,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:70,function:Handle]3
+[2017-02-07 15:46:08][error] [,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:24,function:ERROR,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:59,function:Queryorder,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:60,function:NotifyProcess,function:NotifyCallBack,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-api.php,line:473,function:call_user_func,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/lib/class-xh-wx-pay-notify.php,line:19,function:notify,file:/data/home/hyu14731/htdocs/wp-content/plugins/xh-weixinpay-for-wc-hb-2x/views/wechat-notify.php,line:70,function:Handle]Array
+(
+    [appid] => wx327b2562a8f1f20c
+    [attach] => 12126
+    [bank_type] => CFT
+    [cash_fee] => 1
+    [fee_type] => CNY
+    [is_subscribe] => Y
+    [mch_id] => 1225854902
+    [nonce_str] => geuXOLl3iMDj9hqe
+    [openid] => o8Mcbt7JkO9di1MyzeD3n3xqD4M0
+    [out_trade_no] => AF9E347A7E3C82F7004EA743D5093BDF
+    [result_code] => SUCCESS
+    [return_code] => SUCCESS
+    [return_msg] => OK
+    [sign] => 4B67B0B126F7CE524EEFD09C1C45B446
+    [time_end] => 20170207154549
+    [total_fee] => 1
+    [trade_state] => SUCCESS
+    [trade_type] => NATIVE
+    [transaction_id] => 4006842001201702079062285389
+)
+
